@@ -1,0 +1,5 @@
+export subscription_id="sua_subscription_id_aqui"
+export tenant_id="seu_tenant_id_aqui"
+export client_id="seu_client_id_aqui"
+export client_secret="seu_client_secret_aqui"
+export admin_password="a senha admin do VMSS"

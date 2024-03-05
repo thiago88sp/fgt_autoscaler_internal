@@ -1,0 +1,207 @@
+{
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb": {
+		"resource_id": "/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb",
+		"resource_type": "azurerm_resource_group",
+		"resource_name": "res-0"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Compute/virtualMachineScaleSets/pontesizaoji7y-vmss-byol001": {
+		"resource_id": "/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Compute/virtualMachineScaleSets/pontesizaoji7y-vmss-byol001",
+		"resource_type": "azurerm_linux_virtual_machine_scale_set",
+		"resource_name": "res-1"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Compute/virtualMachineScaleSets/pontesizaoji7y-vmss-payg001": {
+		"resource_id": "/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Compute/virtualMachineScaleSets/pontesizaoji7y-vmss-payg001",
+		"resource_type": "azurerm_linux_virtual_machine_scale_set",
+		"resource_name": "res-2"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.DocumentDb/databaseAccounts/pontesizaoji7y-dba001": {
+		"resource_id": "/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.DocumentDB/databaseAccounts/pontesizaoji7y-dba001",
+		"resource_type": "azurerm_cosmosdb_account",
+		"resource_name": "res-3"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.DocumentDb/databaseAccounts/pontesizaoji7y-dba001/SQLDATABASES/FortiGateAutoscale": {
+		"resource_id": "/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.DocumentDB/databaseAccounts/pontesizaoji7y-dba001/sqlDatabases/FortiGateAutoscale",
+		"resource_type": "azurerm_cosmosdb_sql_database",
+		"resource_name": "res-4"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.DocumentDb/databaseAccounts/pontesizaoji7y-dba001/SQLDATABASES/FortiGateAutoscale/CONTAINERS/ApiRequestCache": {
+		"resource_id": "/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.DocumentDB/databaseAccounts/pontesizaoji7y-dba001/sqlDatabases/FortiGateAutoscale/containers/ApiRequestCache",
+		"resource_type": "azurerm_cosmosdb_sql_container",
+		"resource_name": "res-5"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.DocumentDb/databaseAccounts/pontesizaoji7y-dba001/SQLDATABASES/FortiGateAutoscale/CONTAINERS/Autoscale": {
+		"resource_id": "/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.DocumentDB/databaseAccounts/pontesizaoji7y-dba001/sqlDatabases/FortiGateAutoscale/containers/Autoscale",
+		"resource_type": "azurerm_cosmosdb_sql_container",
+		"resource_name": "res-6"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.DocumentDb/databaseAccounts/pontesizaoji7y-dba001/SQLDATABASES/FortiGateAutoscale/CONTAINERS/CustomLog": {
+		"resource_id": "/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.DocumentDB/databaseAccounts/pontesizaoji7y-dba001/sqlDatabases/FortiGateAutoscale/containers/CustomLog",
+		"resource_type": "azurerm_cosmosdb_sql_container",
+		"resource_name": "res-7"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.DocumentDb/databaseAccounts/pontesizaoji7y-dba001/SQLDATABASES/FortiGateAutoscale/CONTAINERS/LicenseStock": {
+		"resource_id": "/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.DocumentDB/databaseAccounts/pontesizaoji7y-dba001/sqlDatabases/FortiGateAutoscale/containers/LicenseStock",
+		"resource_type": "azurerm_cosmosdb_sql_container",
+		"resource_name": "res-8"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.DocumentDb/databaseAccounts/pontesizaoji7y-dba001/SQLDATABASES/FortiGateAutoscale/CONTAINERS/LicenseUsage": {
+		"resource_id": "/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.DocumentDB/databaseAccounts/pontesizaoji7y-dba001/sqlDatabases/FortiGateAutoscale/containers/LicenseUsage",
+		"resource_type": "azurerm_cosmosdb_sql_container",
+		"resource_name": "res-9"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.DocumentDb/databaseAccounts/pontesizaoji7y-dba001/SQLDATABASES/FortiGateAutoscale/CONTAINERS/PrimaryElection": {
+		"resource_id": "/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.DocumentDB/databaseAccounts/pontesizaoji7y-dba001/sqlDatabases/FortiGateAutoscale/containers/PrimaryElection",
+		"resource_type": "azurerm_cosmosdb_sql_container",
+		"resource_name": "res-10"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.DocumentDb/databaseAccounts/pontesizaoji7y-dba001/SQLDATABASES/FortiGateAutoscale/CONTAINERS/Settings": {
+		"resource_id": "/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.DocumentDB/databaseAccounts/pontesizaoji7y-dba001/sqlDatabases/FortiGateAutoscale/containers/Settings",
+		"resource_type": "azurerm_cosmosdb_sql_container",
+		"resource_name": "res-11"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.DocumentDb/databaseAccounts/pontesizaoji7y-dba001/sqlRoleDefinitions/00000000-0000-0000-0000-000000000001": {
+		"resource_id": "/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.DocumentDB/databaseAccounts/pontesizaoji7y-dba001/sqlRoleDefinitions/00000000-0000-0000-0000-000000000001",
+		"resource_type": "azurerm_cosmosdb_sql_role_definition",
+		"resource_name": "res-13"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.DocumentDb/databaseAccounts/pontesizaoji7y-dba001/sqlRoleDefinitions/00000000-0000-0000-0000-000000000002": {
+		"resource_id": "/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.DocumentDB/databaseAccounts/pontesizaoji7y-dba001/sqlRoleDefinitions/00000000-0000-0000-0000-000000000002",
+		"resource_type": "azurerm_cosmosdb_sql_role_definition",
+		"resource_name": "res-14"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Insights/autoscalesettings/pontes-autoscalesettings-pontesizaoji7y-vmss-byol001": {
+		"resource_id": "/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Insights/autoScaleSettings/pontes-autoscalesettings-pontesizaoji7y-vmss-byol001",
+		"resource_type": "azurerm_monitor_autoscale_setting",
+		"resource_name": "res-15"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Insights/autoscalesettings/pontes-autoscalesettings-pontesizaoji7y-vmss-payg001": {
+		"resource_id": "/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Insights/autoScaleSettings/pontes-autoscalesettings-pontesizaoji7y-vmss-payg001",
+		"resource_type": "azurerm_monitor_autoscale_setting",
+		"resource_name": "res-16"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Insights/components/pontesizaoji7y-appins001": {
+		"resource_id": "/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Insights/components/pontesizaoji7y-appins001",
+		"resource_type": "azurerm_application_insights",
+		"resource_name": "res-17"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.KeyVault/vaults/pontesizaoji7y-kv001": {
+		"resource_id": "/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.KeyVault/vaults/pontesizaoji7y-kv001",
+		"resource_type": "azurerm_key_vault",
+		"resource_name": "res-18"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.KeyVault/vaults/pontesizaoji7y-kv001/secrets/faz-autoscale-admin-password": {
+		"resource_id": "https://pontesizaoji7y-kv001.vault.azure.net/secrets/faz-autoscale-admin-password/fff45a3b13f743c0ac5b766719af8247",
+		"resource_type": "azurerm_key_vault_secret",
+		"resource_name": "res-19"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.KeyVault/vaults/pontesizaoji7y-kv001/secrets/faz-autoscale-admin-username": {
+		"resource_id": "https://pontesizaoji7y-kv001.vault.azure.net/secrets/faz-autoscale-admin-username/38d32dcc800b459b9b673905f9e542ff",
+		"resource_type": "azurerm_key_vault_secret",
+		"resource_name": "res-20"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Network/networkSecurityGroups/bradescou7fcj2bf-external-nsg001": {
+		"resource_id": "/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Network/networkSecurityGroups/bradescou7fcj2bf-external-nsg001",
+		"resource_type": "azurerm_network_security_group",
+		"resource_name": "res-21"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Network/networkSecurityGroups/bradescou7fcj2bf-external-nsg001/securityRules/allow-https-inbound": {
+		"resource_id": "/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Network/networkSecurityGroups/bradescou7fcj2bf-external-nsg001/securityRules/allow-https-inbound",
+		"resource_type": "azurerm_network_security_rule",
+		"resource_name": "res-22"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Network/networkSecurityGroups/bradescou7fcj2bf-external-nsg001/securityRules/inbound-nat-pool": {
+		"resource_id": "/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Network/networkSecurityGroups/bradescou7fcj2bf-external-nsg001/securityRules/inbound-nat-pool",
+		"resource_type": "azurerm_network_security_rule",
+		"resource_name": "res-23"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Network/networkSecurityGroups/bradescou7fcj2bf-external-nsg001/securityRules/outbound-all": {
+		"resource_id": "/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Network/networkSecurityGroups/bradescou7fcj2bf-external-nsg001/securityRules/outbound-all",
+		"resource_type": "azurerm_network_security_rule",
+		"resource_name": "res-24"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Network/virtualNetworks/HUB-VNET": {
+		"resource_id": "/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Network/virtualNetworks/HUB-VNET",
+		"resource_type": "azurerm_virtual_network",
+		"resource_name": "res-25"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Network/virtualNetworks/HUB-VNET/subnets/snetfwexternal": {
+		"resource_id": "/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Network/virtualNetworks/HUB-VNET/subnets/snetfwexternal",
+		"resource_type": "azurerm_subnet",
+		"resource_name": "res-26"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Network/virtualNetworks/HUB-VNET/subnets/snetfwexternal/networkSecurityGroups/L3N1YnNjcmlwdGlvbnMvY2Y3MjQ3OGUtYzNiMC00MDcyLThmNjAtNDFkMDM3YzFkOWU5L3Jlc291cmNlR3JvdXBzL3JzY3MtYnJhZGVzY28tbGIvcHJvdmlkZXJzL01pY3Jvc29mdC5OZXR3b3JrL25ldHdvcmtTZWN1cml0eUdyb3Vwcy9icmFkZXNjb3U3ZmNqMmJmLWV4dGVybmFsLW5zZzAwMQ==": {
+		"resource_id": "/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Network/virtualNetworks/HUB-VNET/subnets/snetfwexternal",
+		"resource_type": "azurerm_subnet_network_security_group_association",
+		"resource_name": "res-27"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Network/virtualNetworks/HUB-VNET/subnets/swfwinternal": {
+		"resource_id": "/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Network/virtualNetworks/HUB-VNET/subnets/swfwinternal",
+		"resource_type": "azurerm_subnet",
+		"resource_name": "res-28"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Storage/storageAccounts/pontesizaoji7ysta001": {
+		"resource_id": "/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Storage/storageAccounts/pontesizaoji7ysta001",
+		"resource_type": "azurerm_storage_account",
+		"resource_name": "res-29"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Storage/storageAccounts/pontesizaoji7ysta001/blobServices/default/containers/azure-webjobs-hosts": {
+		"resource_id": "https://pontesizaoji7ysta001.blob.core.windows.net/azure-webjobs-hosts",
+		"resource_type": "azurerm_storage_container",
+		"resource_name": "res-31"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Storage/storageAccounts/pontesizaoji7ysta001/blobServices/default/containers/azure-webjobs-secrets": {
+		"resource_id": "https://pontesizaoji7ysta001.blob.core.windows.net/azure-webjobs-secrets",
+		"resource_type": "azurerm_storage_container",
+		"resource_name": "res-32"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Storage/storageAccounts/pontesizaoji7ysta001/blobServices/default/containers/fortigate-autoscale": {
+		"resource_id": "https://pontesizaoji7ysta001.blob.core.windows.net/fortigate-autoscale",
+		"resource_type": "azurerm_storage_container",
+		"resource_name": "res-33"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Storage/storageAccounts/pontesizaoji7ysta001/fileServices/default/shares/pontesizaoji7y-funcapp001": {
+		"resource_id": "https://pontesizaoji7ysta001.file.core.windows.net/pontesizaoji7y-funcapp001",
+		"resource_type": "azurerm_storage_share",
+		"resource_name": "res-35"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Web/serverFarms/pontesizaoji7y-appserplan001": {
+		"resource_id": "/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Web/serverfarms/pontesizaoji7y-appserplan001",
+		"resource_type": "azurerm_service_plan",
+		"resource_name": "res-38"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Web/sites/pontesizaoji7y-funcapp001": {
+		"resource_id": "/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Web/sites/pontesizaoji7y-funcapp001",
+		"resource_type": "azurerm_windows_function_app",
+		"resource_name": "res-39"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Web/sites/pontesizaoji7y-funcapp001/functions/byol-license": {
+		"resource_id": "/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Web/sites/pontesizaoji7y-funcapp001/functions/byol-license",
+		"resource_type": "azurerm_function_app_function",
+		"resource_name": "res-43"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Web/sites/pontesizaoji7y-funcapp001/functions/faz-auth-handler": {
+		"resource_id": "/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Web/sites/pontesizaoji7y-funcapp001/functions/faz-auth-handler",
+		"resource_type": "azurerm_function_app_function",
+		"resource_name": "res-44"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Web/sites/pontesizaoji7y-funcapp001/functions/faz-auth-scheduler": {
+		"resource_id": "/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Web/sites/pontesizaoji7y-funcapp001/functions/faz-auth-scheduler",
+		"resource_type": "azurerm_function_app_function",
+		"resource_name": "res-45"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Web/sites/pontesizaoji7y-funcapp001/functions/fgt-as-handler": {
+		"resource_id": "/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Web/sites/pontesizaoji7y-funcapp001/functions/fgt-as-handler",
+		"resource_type": "azurerm_function_app_function",
+		"resource_name": "res-46"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Web/sites/pontesizaoji7y-funcapp001/hostNameBindings/pontesizaoji7y-funcapp001.azurewebsites.net": {
+		"resource_id": "/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Web/sites/pontesizaoji7y-funcapp001/hostNameBindings/pontesizaoji7y-funcapp001.azurewebsites.net",
+		"resource_type": "azurerm_app_service_custom_hostname_binding",
+		"resource_name": "res-47"
+	},
+	"/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/microsoft.alertsmanagement/smartDetectorAlertRules/Failure Anomalies - pontesizaoji7y-appins001": {
+		"resource_id": "/subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.AlertsManagement/smartDetectorAlertRules/Failure Anomalies - pontesizaoji7y-appins001",
+		"resource_type": "azurerm_monitor_smart_detector_alert_rule",
+		"resource_name": "res-48"
+	}
+}

@@ -1,0 +1,10 @@
+Following resources are marked to be skipped:
+
+- /subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.DocumentDb/databaseAccounts/pontesizaoji7y-dba001/SQLDATABASES/FortiGateAutoscale/THROUGHPUTSETTINGS/default
+- /subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Storage/storageAccounts/pontesizaoji7ysta001/blobServices/default
+- /subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Storage/storageAccounts/pontesizaoji7ysta001/fileServices/default
+- /subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Storage/storageAccounts/pontesizaoji7ysta001/queueServices/default
+- /subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Storage/storageAccounts/pontesizaoji7ysta001/tableServices/default
+- /subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Web/sites/pontesizaoji7y-funcapp001/basicPublishingCredentialsPolicies/ftp
+- /subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Web/sites/pontesizaoji7y-funcapp001/basicPublishingCredentialsPolicies/scm
+- /subscriptions/cf72478e-c3b0-4072-8f60-41d037c1d9e9/resourceGroups/rscs-bradesco-lb/providers/Microsoft.Web/sites/pontesizaoji7y-funcapp001/config/web
